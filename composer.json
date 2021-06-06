@@ -22,6 +22,7 @@
     "source": "https://github.com/pkgstore/mediawiki-ext-editor-wikificator"
   },
   "require": {
+    "php": ">=7.2",
     "composer/installers": "^1.9",
     "pkgstore/mediawiki-ext-kernel": "*"
   },
